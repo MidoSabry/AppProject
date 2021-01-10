@@ -1,3 +1,8 @@
 first project
+<<<<<<< HEAD
 new new
 
+=======
+hhggh
+master
+>>>>>>> master
